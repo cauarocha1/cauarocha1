@@ -1,16 +1,32 @@
-## Hi there 👋
+### Olá! Eu sou o Cauã Rocha 👋
 
-<!--
-**cauarocha1/cauarocha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação, focado em criar soluções web.
 
-Here are some ideas to get you started:
+🎓 Técnico em Desenvolvimento de Sistemas - ETEC Hortolândia (2023-2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estudando **React**, **Firebase** e **C#**
+
+---
+
+### 🛠️ Tecnologias
+
+**Frontend:** React, JavaScript, HTML5, CSS3
+
+**Backend:** C#, Firebase/Firestore, MySQL
+
+**Ferramentas:** Visual Studio, VS Code, Git
+
+---
+
+### 🚀 Projeto Principal
+
+**[Ka'a Morotĩ](https://kaamoroti.web.app)** - Plataforma web gamificada (TCC 2025)
+
+Tecnologias: React, Firebase, JavaScript | [Ver código](https://github.com/cauarocha1/kaamoroti-tcc)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rochacaua/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1caua.rocha@gmail.com)
