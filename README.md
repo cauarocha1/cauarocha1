@@ -4,7 +4,7 @@ Desenvolvedor Full Stack em formação, focado em criar soluções web.
 
 🎓 Técnico em Desenvolvimento de Sistemas - ETEC Hortolândia (2023-2025)
 
-🌱 Estudando **React**, **Firebase** e **C#**
+🌱 Estudando **React**, **SQL** e **Python**
 
 ---
 
@@ -12,7 +12,7 @@ Desenvolvedor Full Stack em formação, focado em criar soluções web.
 
 **Frontend:** React, JavaScript, HTML5, CSS3
 
-**Backend:** C#, Firebase/Firestore, MySQL
+**Backend:** C#, Firebase/Firestore, MySQL, Python
 
 **Ferramentas:** Visual Studio, VS Code, Git
 
