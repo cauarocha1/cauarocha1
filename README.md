@@ -1,105 +1,250 @@
 # Hi, I'm Cauã Rocha 👋
 
-🚀 Python Developer focused on AI Engineering, Data Infrastructure, Automation, and Production Systems.
+### Software Developer | Data & AI Engineering
 
-I'm currently building skills in backend engineering, data pipelines, cloud infrastructure, and applied AI systems — with a strong interest in production-grade AI workflows, automation, and scalable architectures.
+I build **Python-based systems for automation, data processing and intelligent workflows**.
 
-## 🎓 Background
+I'm currently studying **Information Systems at UFLA** and developing my skills in **Data Engineering, AI Engineering and production-oriented systems**, with a growing focus on how data and AI solutions are built, integrated, deployed and maintained in real environments.
 
-* 🎓 Information Systems @ UFLA *(2026 – Present)*
-* 🎓 Technical Degree in Systems Development — ETEC Hortolândia *(2023 – 2025)*
-* 💼 Practical experience at EssilorLuxottica developing Python automations and data workflows for logistics operations using SAP ERP environments.
+My current path is:
 
-## 🧠 Current Focus
-
-* Python & Backend Engineering
-* Data Pipelines & ETL
-* SQL & Data Infrastructure
-* AI Engineering & LLM Applications
-* Automation Systems
-* Cloud & MLOps fundamentals
-* Monitoring & Production AI workflows
-
-## 🛠️ Technologies
-
-### Backend & Data
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### AI & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Python → Automation → Data Engineering → Machine Learning → AI Engineering → MLOps**
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 📌 ETL Currency Pipeline
-Automated ETL pipeline for collecting and processing currency exchange data from APIs.
-
-**Tech:** Python • Pandas • APIs
-
-🔗 Repository: [pipeline-etl-moedas](https://github.com/cauarocha1/pipeline-etl-moedas)
-
----
-
-### 📌 Jornada dos Sonhos
-AI-powered workflow project using LLMs for intelligent interaction and content automation.
-
-**Tech:** Python • LLMs • AI Workflows
-
-🔗 Repository: [JornadaDosSonhos](https://github.com/cauarocha1/JornadaDosSonhos)
+- 🎓 Information Systems student at **UFLA**
+- 🎓 Technical Degree in Systems Development from **ETEC Hortolândia**
+- 💼 IT Support Technician at **City Hall of Lavras**
+- 🐍 Experience with **Python automation and data processing**
+- 📊 Interested in **Data Engineering, AI Engineering and Machine Learning systems**
+- ⚙️ Exploring infrastructure, deployment and **MLOps**
+- 🌎 Building toward a career in production-grade Data & AI systems
 
 ---
 
-### 📌 Data Consolidator
-Automation tool for processing and consolidating large operational datasets.
+## 💼 Experience
 
-**Tech:** Python • Pandas • Data Processing
+### 🏛️ IT Support Technician — City Hall of Lavras
+**2026 – Present**
 
-🔗 Repository: [Consolidador](https://github.com/cauarocha1/Consolidador)
+Working with technical support and IT operations in a public-sector environment, including troubleshooting, workstation configuration, system support and day-to-day technology operations.
 
 ---
 
-## 📜 Certifications
+### 🏢 EssilorLuxottica
+
+Experience with **Python automation, operational data processing and logistics workflows**, including activities involving data from **SAP ERP environments**.
+
+Focused on using software and automation to reduce repetitive tasks and improve operational processes.
+
+---
+
+## 🎓 Education
+
+### Information Systems — UFLA
+**2026 – Present**
+
+Developing knowledge in software development, information systems, algorithms, data and computing fundamentals.
+
+### Technical Degree in Systems Development — ETEC Hortolândia
+**2023 – 2025**
+
+Background in software development, programming, databases and web technologies.
+
+---
+
+# 🛠️ Tech Stack
+
+## Core
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+**Python • SQL • Pandas • Git • GitHub • REST APIs**
+
+---
+
+## Data & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+**Data Processing • ETL • Data Pipelines • Machine Learning • LLM Applications • AI Workflows**
+
+---
+
+## Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
+
+**Linux • Docker • Infrastructure Fundamentals**
+
+Currently expanding into:
+
+**Cloud • MLOps • MLflow • Kubernetes • Monitoring • CI/CD**
+
+---
+
+## Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,firebase" />
+</p>
+
+**React • JavaScript • HTML • CSS • Firebase**
+
+I mainly use web technologies as a supporting layer for applications, interfaces and data-driven projects.
+
+---
+
+# 🚀 Featured Projects
+
+## 💱 ETL Currency Pipeline
+
+Automated ETL pipeline for collecting, processing and structuring currency exchange data from external APIs.
+
+The project explores core Data Engineering concepts such as **data ingestion, transformation and pipeline automation**.
+
+**Tech:** `Python` `Pandas` `REST APIs` `ETL`
+
+🔗 [View Repository](https://github.com/cauarocha1/pipeline-etl-moedas)
+
+---
+
+## 📊 Data Consolidator
+
+Python automation tool designed to process and consolidate operational datasets.
+
+The project focuses on transforming multiple sources of information into structured datasets while reducing repetitive manual work.
+
+**Tech:** `Python` `Pandas` `Data Processing` `Automation`
+
+🔗 [View Repository](https://github.com/cauarocha1/Consolidador)
+
+---
+
+## 🧠 Jornada dos Sonhos
+
+Project exploring the use of **Large Language Models and AI workflows** for intelligent interaction and automated content generation.
+
+It represents my growing interest in building software around **LLMs, automation and applied AI systems**.
+
+**Tech:** `Python` `LLMs` `AI Workflows` `Automation`
+
+🔗 [View Repository](https://github.com/cauarocha1/JornadaDosSonhos)
+
+---
+
+## 🌱 Ka'a Morotĩ
+
+Gamified web platform developed as a technical course final project.
+
+The project combines software development, gamification and interactive web technologies.
+
+**Tech:** `React` `JavaScript` `Firebase` `Web Development`
+
+🔗 [View Repository](https://github.com/cauarocha1)
+
+---
+
+# 🧭 Current Focus
+
+I'm currently strengthening my knowledge in:
+
+- 🐍 Advanced Python
+- 🔄 ETL and Data Pipelines
+- 🗄️ SQL and Data Infrastructure
+- ⚙️ Backend Development and APIs
+- 🤖 Machine Learning
+- 🧠 LLM Applications
+- 📦 Docker and containerization
+- ☁️ Cloud fundamentals
+- 🔬 Experiment tracking
+- 📊 AI monitoring and evaluation
+- 🔁 MLOps
+
+---
+
+## 🎯 Career Direction
+
+My goal is to work at the intersection of:
+
+**Software Engineering + Data Engineering + Artificial Intelligence**
+
+I'm particularly interested in understanding the complete lifecycle of intelligent systems:
+
+```text
+Data
+  ↓
+Data Pipelines
+  ↓
+Machine Learning / AI
+  ↓
+Applications & APIs
+  ↓
+Deployment
+  ↓
+Monitoring
+  ↓
+Production Systems
+```
+
+Long term, I want to specialize in **AI Engineering and MLOps**, building reliable and scalable AI systems that can move from experimentation into production.
+
+---
+
+# 📜 Certifications
 
 <p align="center">
-  <img src="https://assets.dio.me/gikWRziR5JSkCgB9nYOBlOsTfYyZ4EiejlDp6PeTVu8/f:webp/q:80/w:120/L3RyYWNrcy8wMjVkNGQ0Ny02MjhlLTQzMGMtYjljNS1hMTExNTkwN2I5MGQucG5n" width="90" alt="GenAI e Dados"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://assets.dio.me/BWT2PJ9NF6shpLvHF6XeLRr1vHFB41GjR73pODBxgvU/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjEwNjM5MmQtYTYwMC00ZmNhLTlhODctNWE1N2Q3ZGNlZjcxLnBuZw" width="90" alt="Programação em Python"/>
-  <br>
-  <sub><b>GenAI & Data</b> &nbsp;&nbsp; | &nbsp;&nbsp; <b>Python Programming</b></sub>
+
+<img src="https://assets.dio.me/gikWRziR5JSkCgB9nYOBlOsTfYyZ4EiejlDp6PeTVu8/f:webp/q:80/w:120/L3RyYWNrcy8wMjVkNGQ0Ny02MjhlLTQzMGMtYjljNS1hMTExNTkwN2I5MGQucG5n"
+width="90"
+alt="GenAI and Data"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://assets.dio.me/BWT2PJ9NF6shpLvHF6XeLRr1vHFB41GjR73pODBxgvU/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjEwNjM5MmQtYTYwMC00ZmNhLTlhODctNWE1N2Q3ZGNlZjcxLnBuZw"
+width="90"
+alt="Python Programming"/>
+
+<br>
+
+<sub>
+<b>GenAI & Data</b>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<b>Python Programming</b>
+</sub>
+
 </p>
 
 ---
 
-## 🎯 Goals
+# 📫 Contact
 
-Currently seeking internship opportunities focused on:
-* AI Engineering
-* Backend Engineering
-* Data Engineering
-* Automation & Infrastructure
-* Production AI Systems
+<p align="left">
+
+<a href="https://cauarocha.dev">
+  <img src="https://img.shields.io/badge/Portfolio-cauarocha.dev-black?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/rochacaua/">
+  <img src="https://img.shields.io/badge/LinkedIn-Cauã_Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:1caua.rocha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rochacaua/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1caua.rocha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauarocha1)
+<p align="center">
+  <b>Building the path from data to production AI systems.</b>
+</p>
