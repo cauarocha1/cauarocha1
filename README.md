@@ -105,6 +105,36 @@ I mainly use web technologies as a supporting layer for applications, interfaces
 
 # 🚀 Featured Projects
 
+## 🤖 Cauã AI
+
+Production-oriented AI assistant platform with a reusable Python core, versioned FastAPI, RAG, PostgreSQL-backed sessions, SSE streaming and a React widget integrated into my portfolio.
+
+**Tech:** `Python` `FastAPI` `Gemini` `RAG` `PostgreSQL` `React`
+
+🔗 [View Live Case](https://cauarocha.dev/en/projects/caua-ai)
+
+---
+
+## 🗂️ Marisa Assistant
+
+Telegram personal assistant for academic organization and personal finance, with Gemini tool calling, Supabase expense tracking, CalDAV calendar integration and a production FastAPI backend.
+
+**Tech:** `Python` `FastAPI` `Gemini` `Telegram` `Supabase` `CalDAV`
+
+🔗 [View Repository](https://github.com/cauarocha1/marisa-assistant) · [View Live Case](https://cauarocha.dev/en/projects/marisa-assistant)
+
+---
+
+## 🚗 Auto Escola Poderosa
+
+Commercial landing page that gives a driving school a complete web presence and routes each service intent to a contextualized WhatsApp conversation.
+
+**Tech:** `Astro` `Web Design` `SEO` `CTA Architecture`
+
+🔗 [View Live Site](https://autoescola-poderosa.vercel.app/) · [View Case](https://cauarocha.dev/en/projects/presenca-digital)
+
+---
+
 ## 💱 ETL Currency Pipeline
 
 Automated ETL pipeline for collecting, processing and structuring currency exchange data from external APIs.
