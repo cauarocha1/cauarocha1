@@ -1,14 +1,12 @@
 # Hi, I'm Cauã Rocha 👋
 
-### Software Developer | Data & AI Engineering
+### Software Development | IT Infrastructure | Data & AI
 
-I build **Python-based systems for automation, data processing and intelligent workflows**.
+I build **internal systems, automations and data workflows**, and help set up the infrastructure needed to test and run them.
 
-I'm currently studying **Information Systems at UFLA** and developing my skills in **Data Engineering, AI Engineering and production-oriented systems**, with a growing focus on how data and AI solutions are built, integrated, deployed and maintained in real environments.
+I'm studying **Information Systems at UFLA** and working as an **IT Support Technician at the City Hall of Lavras**. Alongside support, I developed a service order platform now in pilot phase, prepared its Docker environment, worked with Windows Server virtual machines and networks, and transformed operational data for analysis.
 
-My current path is:
-
-**Python → Automation → Data Engineering → Machine Learning → AI Engineering → MLOps**
+My current focus is **software development and operations**, with data and AI as complementary strengths. I'm exploring where I can contribute most across building, deploying and maintaining useful systems.
 
 ---
 
@@ -17,10 +15,10 @@ My current path is:
 - 🎓 Information Systems student at **UFLA**
 - 🎓 Technical Degree in Systems Development from **ETEC Hortolândia**
 - 💼 IT Support Technician at **City Hall of Lavras**
-- 🐍 Experience with **Python automation and data processing**
-- 📊 Interested in **Data Engineering, AI Engineering and Machine Learning systems**
-- ⚙️ Exploring infrastructure, deployment and **MLOps**
-- 🌎 Building toward a career in production-grade Data & AI systems
+- 🛠️ Building an internal **service order platform** now in pilot phase
+- 🐍 Experience with **Python automation, ETL and data processing**
+- ⚙️ Working with **Docker, Windows Server, Active Directory and networks**
+- 🤖 Interested in practical **AI applications and data systems**
 
 ---
 
@@ -29,7 +27,9 @@ My current path is:
 ### 🏛️ IT Support Technician — City Hall of Lavras
 **2026 – Present**
 
-Working with technical support and IT operations in a public-sector environment, including troubleshooting, workstation configuration, system support and day-to-day technology operations.
+I work with technical support and IT infrastructure in a public-sector environment, including troubleshooting, workstation setup, Active Directory users, Windows Server, and network connectivity.
+
+I also developed an internal service order platform that is now in pilot phase, prepared a Docker-based pilot environment on a dedicated device, worked with Windows Server virtual machines, and transformed data on copying, printing and costs for internal analysis.
 
 ---
 
@@ -104,6 +104,14 @@ I mainly use web technologies as a supporting layer for applications, interfaces
 ---
 
 # 🚀 Featured Projects
+
+## 🛠️ Service Order Platform — Pilot
+
+Internal platform developed to organize service requests and their workflow. The pilot runs in a Docker-based environment on a dedicated device. A public case study will be added when the project can be shared.
+
+**Tech:** `Web development` `Docker` `IT operations`
+
+---
 
 ## 🤖 Cauã AI
 
@@ -203,29 +211,9 @@ I'm currently strengthening my knowledge in:
 
 ## 🎯 Career Direction
 
-My goal is to work at the intersection of:
+I'm currently exploring the intersection of **software development, infrastructure and operations**, while continuing to build projects in **data and AI**.
 
-**Software Engineering + Data Engineering + Artificial Intelligence**
-
-I'm particularly interested in understanding the complete lifecycle of intelligent systems:
-
-```text
-Data
-  ↓
-Data Pipelines
-  ↓
-Machine Learning / AI
-  ↓
-Applications & APIs
-  ↓
-Deployment
-  ↓
-Monitoring
-  ↓
-Production Systems
-```
-
-Long term, I want to specialize in **AI Engineering and MLOps**, building reliable and scalable AI systems that can move from experimentation into production.
+I want to understand the complete lifecycle of a system: identifying a problem, building a solution, deploying it, diagnosing failures and improving it through real use. AI Engineering and MLOps remain areas of interest as I strengthen this foundation.
 
 ---
 
@@ -276,5 +264,5 @@ alt="Python Programming"/>
 ---
 
 <p align="center">
-  <b>Building the path from data to production AI systems.</b>
+  <b>Building useful systems and learning how to run them reliably.</b>
 </p>
