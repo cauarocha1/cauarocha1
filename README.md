@@ -1,268 +1,165 @@
 # Hi, I'm Cauã Rocha 👋
 
-### Software Development | IT Infrastructure | Data & AI
+### Full Stack Developer | React, Next.js, TypeScript & Python
 
-I build **internal systems, automations and data workflows**, and help set up the infrastructure needed to test and run them.
+I build and maintain web applications that solve everyday problems,
+from internal management platforms to applications with AI features.
 
-I'm studying **Information Systems at UFLA** and working as an **IT Support Technician at the City Hall of Lavras**. Alongside support, I developed a service order platform now in pilot phase, prepared its Docker environment, worked with Windows Server virtual machines and networks, and transformed operational data for analysis.
+My work includes understanding user needs, developing interfaces,
+integrating backend services and databases, and deploying improvements
+based on real use.
 
-My current focus is **software development and operations**, with data and AI as complementary strengths. I'm exploring where I can contribute most across building, deploying and maintaining useful systems.
+I'm currently studying **Information Systems at UFLA** and working as
+an **IT Support Technician at the City Hall of Lavras**, where I also
+develop internal software solutions.
+
+At **NEURON — UFLA's Interactive Robotics Study Group**, I develop and
+maintain **NeuronERP**, an internal platform for projects, tasks,
+teams and activity tracking.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Information Systems student at **UFLA**
 - 🎓 Technical Degree in Systems Development from **ETEC Hortolândia**
-- 💼 IT Support Technician at **City Hall of Lavras**
-- 🛠️ Building an internal **service order platform** now in pilot phase
-- 🐍 Experience with **Python automation, ETL and data processing**
-- ⚙️ Working with **Docker, Windows Server, Active Directory and networks**
-- 🤖 Interested in practical **AI applications and data systems**
+- 💻 Developing and maintaining **NeuronERP**
+- 🛠️ Built an internal **service order platform**, currently in pilot
+- 🐍 Experience with **Python, APIs, automation and data processing**
+- 📦 Practical experience with **Docker and application deployment**
+- 🤖 Research experience in **AI, textual data analysis and social robotics**
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-### 🏛️ IT Support Technician — City Hall of Lavras
-**2026 – Present**
+### Frontend
 
-I work with technical support and IT infrastructure in a public-sector environment, including troubleshooting, workstation setup, Active Directory users, Windows Server, and network connectivity.
+**React · Next.js · TypeScript · JavaScript · HTML · CSS**
 
-I also developed an internal service order platform that is now in pilot phase, prepared a Docker-based pilot environment on a dedicated device, worked with Windows Server virtual machines, and transformed data on copying, printing and costs for internal analysis.
+### Backend & Databases
 
----
+**Python · FastAPI · Supabase · PostgreSQL · MySQL · REST APIs**
 
-### 🏢 EssilorLuxottica
+### Development & Deployment
 
-Experience with **Python automation, operational data processing and logistics workflows**, including activities involving data from **SAP ERP environments**.
+**Git · GitHub · Docker · Vercel · Linux**
 
-Focused on using software and automation to reduce repetitive tasks and improve operational processes.
+### Complementary Experience
 
----
-
-## 🎓 Education
-
-### Information Systems — UFLA
-**2026 – Present**
-
-Developing knowledge in software development, information systems, algorithms, data and computing fundamentals.
-
-### Technical Degree in Systems Development — ETEC Hortolândia
-**2023 – 2025**
-
-Background in software development, programming, databases and web technologies.
+**Pandas · ETL · Applied AI · RAG · Windows Server · Active Directory**
 
 ---
 
-# 🛠️ Tech Stack
+## Featured Projects
 
-## Core
+### NeuronERP — Internal Management Platform
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+Internal web platform developed for NEURON to organize projects,
+teams, responsibilities, tasks and activity records.
 
-**Python • SQL • Pandas • Git • GitHub • REST APIs**
+The platform includes:
 
----
+- Kanban boards with task assignment and ordering
+- Project and team management
+- Work time tracking and meeting attendance
+- Review workflows and access rules for different roles
 
-## Data & AI
+I work on requirements, development, maintenance, usability
+improvements, bug fixes and deployment.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
+**Tech:** Next.js · React · TypeScript · Supabase · PostgreSQL · Vercel
 
-**Data Processing • ETL • Data Pipelines • Machine Learning • LLM Applications • AI Workflows**
-
----
-
-## Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker" />
-</p>
-
-**Linux • Docker • Infrastructure Fundamentals**
-
-Currently expanding into:
-
-**Cloud • MLOps • MLflow • Kubernetes • Monitoring • CI/CD**
+*Private repository.*
 
 ---
 
-## Web Development
+### Service Order Platform — Pilot
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,firebase" />
-</p>
+Internal application developed to organize service requests and
+their workflow at the City Hall of Lavras.
 
-**React • JavaScript • HTML • CSS • Firebase**
+I also prepared the Docker-based pilot environment on a dedicated
+device.
 
-I mainly use web technologies as a supporting layer for applications, interfaces and data-driven projects.
+**Focus:** Internal software · Service workflows · Docker deployment
 
----
-
-# 🚀 Featured Projects
-
-## 🛠️ Service Order Platform — Pilot
-
-Internal platform developed to organize service requests and their workflow. The pilot runs in a Docker-based environment on a dedicated device. A public case study will be added when the project can be shared.
-
-**Tech:** `Web development` `Docker` `IT operations`
+*A public case study will be added when the project can be shared.*
 
 ---
 
-## 🤖 Cauã AI
+### Cauã AI
 
-Production-oriented AI assistant platform with a reusable Python core, versioned FastAPI, RAG, PostgreSQL-backed sessions, SSE streaming and a React widget integrated into my portfolio.
+AI assistant platform with a reusable Python core, a versioned
+FastAPI API, RAG, PostgreSQL-backed sessions and SSE streaming.
 
-**Tech:** `Python` `FastAPI` `Gemini` `RAG` `PostgreSQL` `React`
+Includes a React widget integrated into my portfolio.
 
-🔗 [View Live Case](https://cauarocha.dev/en/projects/caua-ai)
+**Tech:** Python · FastAPI · PostgreSQL · React · Gemini · RAG
 
----
-
-## 🗂️ Marisa Assistant
-
-Telegram personal assistant for academic organization and personal finance, with Gemini tool calling, Supabase expense tracking, CalDAV calendar integration and a production FastAPI backend.
-
-**Tech:** `Python` `FastAPI` `Gemini` `Telegram` `Supabase` `CalDAV`
-
-🔗 [View Repository](https://github.com/cauarocha1/marisa-assistant) · [View Live Case](https://cauarocha.dev/en/projects/marisa-assistant)
+[View case study](https://cauarocha.dev/en/projects/caua-ai)
 
 ---
 
-## 🚗 Auto Escola Poderosa
+### Marisa Assistant
 
-Commercial landing page that gives a driving school a complete web presence and routes each service intent to a contextualized WhatsApp conversation.
+Telegram assistant for academic organization and personal finance.
 
-**Tech:** `Astro` `Web Design` `SEO` `CTA Architecture`
+Integrates Gemini tool calling, Supabase expense tracking,
+CalDAV calendars and a FastAPI backend.
 
-🔗 [View Live Site](https://autoescola-poderosa.vercel.app/) · [View Case](https://cauarocha.dev/en/projects/presenca-digital)
+**Tech:** Python · FastAPI · Supabase · Gemini · Telegram · CalDAV
 
----
-
-## 💱 ETL Currency Pipeline
-
-Automated ETL pipeline for collecting, processing and structuring currency exchange data from external APIs.
-
-The project explores core Data Engineering concepts such as **data ingestion, transformation and pipeline automation**.
-
-**Tech:** `Python` `Pandas` `REST APIs` `ETL`
-
-🔗 [View Repository](https://github.com/cauarocha1/pipeline-etl-moedas)
+[Repository](https://github.com/cauarocha1/marisa-assistant)
+· [Case study](https://cauarocha.dev/en/projects/marisa-assistant)
 
 ---
 
-## 📊 Data Consolidator
+### Auto Escola Poderosa
 
-Python automation tool designed to process and consolidate operational datasets.
+Commercial website developed for a driving school, with service
+information and contextualized WhatsApp contact flows.
 
-The project focuses on transforming multiple sources of information into structured datasets while reducing repetitive manual work.
+**Tech:** Astro · HTML · CSS · SEO
 
-**Tech:** `Python` `Pandas` `Data Processing` `Automation`
-
-🔗 [View Repository](https://github.com/cauarocha1/Consolidador)
-
----
-
-## 🧠 Jornada dos Sonhos
-
-Project exploring the use of **Large Language Models and AI workflows** for intelligent interaction and automated content generation.
-
-It represents my growing interest in building software around **LLMs, automation and applied AI systems**.
-
-**Tech:** `Python` `LLMs` `AI Workflows` `Automation`
-
-🔗 [View Repository](https://github.com/cauarocha1/JornadaDosSonhos)
+[Live website](https://autoescola-poderosa.vercel.app/)
+· [Case study](https://cauarocha.dev/en/projects/presenca-digital)
 
 ---
 
-## 🌱 Ka'a Morotĩ
+## Other Projects
 
-Gamified web platform developed as a technical course final project.
-
-The project combines software development, gamification and interactive web technologies.
-
-**Tech:** `React` `JavaScript` `Firebase` `Web Development`
-
-🔗 [View Repository](https://github.com/cauarocha1)
-
----
-
-# 🧭 Current Focus
-
-I'm currently strengthening my knowledge in:
-
-- 🐍 Advanced Python
-- 🔄 ETL and Data Pipelines
-- 🗄️ SQL and Data Infrastructure
-- ⚙️ Backend Development and APIs
-- 🤖 Machine Learning
-- 🧠 LLM Applications
-- 📦 Docker and containerization
-- ☁️ Cloud fundamentals
-- 🔬 Experiment tracking
-- 📊 AI monitoring and evaluation
-- 🔁 MLOps
+- [ETL Currency Pipeline](https://github.com/cauarocha1/pipeline-etl-moedas)
+  — API data collection, transformation and pipeline automation.
+- [Data Consolidator](https://github.com/cauarocha1/Consolidador)
+  — Python tool for processing and consolidating operational datasets.
+- [Jornada dos Sonhos](https://github.com/cauarocha1/JornadaDosSonhos)
+  — Experiments with LLM applications and AI workflows.
 
 ---
 
-## 🎯 Career Direction
+## Current Focus
 
-I'm currently exploring the intersection of **software development, infrastructure and operations**, while continuing to build projects in **data and AI**.
+I'm strengthening my skills in:
 
-I want to understand the complete lifecycle of a system: identifying a problem, building a solution, deploying it, diagnosing failures and improving it through real use. AI Engineering and MLOps remain areas of interest as I strengthen this foundation.
+- Building accessible and responsive interfaces with React and Next.js
+- Developing backend services and integrating APIs
+- Designing and querying relational databases
+- Testing, debugging and maintaining web applications
+- Deploying applications and improving them through user feedback
 
----
-
-# 📜 Certifications
-
-<p align="center">
-
-<img src="https://assets.dio.me/gikWRziR5JSkCgB9nYOBlOsTfYyZ4EiejlDp6PeTVu8/f:webp/q:80/w:120/L3RyYWNrcy8wMjVkNGQ0Ny02MjhlLTQzMGMtYjljNS1hMTExNTkwN2I5MGQucG5n"
-width="90"
-alt="GenAI and Data"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://assets.dio.me/BWT2PJ9NF6shpLvHF6XeLRr1vHFB41GjR73pODBxgvU/f:webp/q:80/w:120/L2NvdXJzZXMvYmFkZ2UvNjEwNjM5MmQtYTYwMC00ZmNhLTlhODctNWE1N2Q3ZGNlZjcxLnBuZw"
-width="90"
-alt="Python Programming"/>
-
-<br>
-
-<sub>
-<b>GenAI & Data</b>
-&nbsp;&nbsp; • &nbsp;&nbsp;
-<b>Python Programming</b>
-</sub>
-
-</p>
+My goal is to grow as a **Full Stack Developer**, taking responsibility
+for software from the initial problem through implementation,
+deployment and maintenance.
 
 ---
 
-# 📫 Contact
+## Contact
 
-<p align="left">
-
-<a href="https://cauarocha.dev">
-  <img src="https://img.shields.io/badge/Portfolio-cauarocha.dev-black?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/rochacaua/">
-  <img src="https://img.shields.io/badge/LinkedIn-Cauã_Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:1caua.rocha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+[Portfolio](https://cauarocha.dev)
+· [LinkedIn](https://linkedin.com/in/rochacaua/)
+· [Email](mailto:1caua.rocha@gmail.com)
 
 ---
 
-<p align="center">
-  <b>Building useful systems and learning how to run them reliably.</b>
-</p>
+Building useful software and improving it through real use.
